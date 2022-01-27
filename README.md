@@ -66,6 +66,6 @@ Project is created with:
 
 ## Inspiration
 
-I chose to incorporate quotes in my slideshow because sometimes people need a pick-me-up! Mental health is very important and with situations that go on in people’s life, they tend to forget the little things so this slideshow is a reminder for those who are going through rough times or need a little motivation!
+I chose to incorporate quotes in my slideshow because sometimes people need a pick-me-up! Mental health is very important and with situations that go on in people’s lives, they tend to forget the little things so this slideshow is a reminder for those who are going through rough times or need a little motivation!
 
 
