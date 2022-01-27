@@ -4,7 +4,7 @@ A slideshow that shows different quotes.
 
 
 
-Link: 
+Link: https://quoteslideshow.netlify.app/
 
 
 
